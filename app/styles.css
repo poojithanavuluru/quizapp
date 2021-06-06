@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+ 
+  nav a3 {
+    padding: 10px 0px;
+    text-decoration: none;
+    margin-top: 20px;
+    text-align: center;
+    display:block;
+    background-color: #eee;
+    border-radius: 0px;
+  }
